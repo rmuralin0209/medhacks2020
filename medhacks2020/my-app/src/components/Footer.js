@@ -11,25 +11,25 @@ class Footer extends Component {
                     <div className="row">
 
                         {/* Popular Cities Section */}
-                        <div className="col-lg-3 col-md-3 col-sm-12">
+                        <div className="col-lg-3 col-md-2 col-sm-12">
                             <div className="footer-head-div">
                                 <h5 className="text-white">Popular Cities</h5>
                             </div>
                             <div className="footer-list-div">
                                 <ul>
-                                    <li><a href="#">Karachi</a></li>
-                                    <li><a href="#">Lahore</a></li>
-                                    <li><a href="#">Islamabad</a></li>
-                                    <li><a href="#">Rawalpindi</a></li>
-                                    <li><a href="#">Multan</a></li>
+                                    <li><a href="#">Pittsburgh</a></li>
+                                    <li><a href="#">Los Angeles</a></li>
+                                    <li><a href="#">New York</a></li>
+                                    <li><a href="#">Chicago</a></li>
+                                    <li><a href="#">Baltimore</a></li>
                                 </ul>
                             </div>
                         </div>
 
-                        {/* Popular Cuisnies Section */}                        
+                        {/* Popular Services */}                        
                         <div className="col-lg-3 col-md-3 col-sm-12">
                             <div className="footer-head-div">
-                                <h5 className="text-white">Popular Cuisnies</h5>
+                                <h5 className="text-white">Popular Services</h5>
                             </div>
                             <div className="footer-list-div">
                                 <ul>
